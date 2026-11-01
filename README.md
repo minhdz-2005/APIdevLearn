@@ -12,8 +12,6 @@ Mỗi chủ đề nằm trong một thư mục riêng với một file markdown:
 | Trọng tâm | REST/OpenAPI là trục chính; GraphQL/gRPC/OAuth chỉ ở mức khái niệm |
 | Cập nhật ghi chú | 2026-11-01 |
 
-Tương tự bộ ghi chú SQL (repo `TT2026/SQL` trên máy): đây là ghi chú học tập, không phải kết quả đo trên hệ thật; các khẳng định về hành vi nên đối chiếu tài liệu chính thức (MDN, RFC) khi cần sự thật.
-
 ## Mục lục
 
 | # | Chủ đề | Nội dung chính |
